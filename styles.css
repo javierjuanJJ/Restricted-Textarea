@@ -1,0 +1,12 @@
+#restricted-textarea {
+    border: 2px solid #ccc;
+    padding: 8px;
+    font-size: 16px;
+    resize: none;
+  }
+  
+  #restricted-textarea.limit-reached {
+    border-color: red;
+    outline: none;
+  }
+  
