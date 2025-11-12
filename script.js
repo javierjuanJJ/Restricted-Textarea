@@ -1,0 +1,1 @@
+const maxChars = 100;
